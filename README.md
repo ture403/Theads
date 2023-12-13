@@ -36,7 +36,7 @@ env list : planetscale
 📕 NEXT 에서 NOSQL 연결 이해 <br>
 📕 tailWind 이해 <br>
 📕 TYPESCRIPT 이해 <br>
-📕 MUI 활용 이해
+📕 MUI 활용 이해 <br>
 📕 API 연동 이해 <br>
 📕 mongoose 활용법  <br>
 📕 clerk 활용법  <br>
